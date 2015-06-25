@@ -21,3 +21,23 @@ Hobbies:
 	hanging out with friends
 	fishing
 	hiking
+
+Places I have been:
+	Japan
+	Hawaii
+	Washington
+	California
+	Colorado
+	Airzona
+
+Goals:
+	stright A's this term
+	make new firends
+	make great memories
+	get an A in Cs290
+
+Schooling:
+	The international school
+	Twality Middle School
+	Tigard High School
+	Oregon State Univeristy
